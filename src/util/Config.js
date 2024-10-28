@@ -34,7 +34,7 @@ Config = {
         {key: "flutter5", imagePath: "res/img/flutter5.png", jsonPath: "res/img/flutter.json"},
         {key: "flutter6", imagePath: "res/img/flutter6.png", jsonPath: "res/img/flutter.json"},
         {key: "hornets", imagePath: "res/img/hornets.png", jsonPath: "res/img/hornets.json"},
-        {key: "trapgrowth", imagePath: "res/img/venusflytrap.png", jsonPath: "res/img/venusflytrap.json"},
+        {key: "trapgrowth", imagePath: "res/img/venusflytrap.png", jsonPath: "res/img/venusFlyTrap.json"},
         {key: "firegrowth", imagePath: "res/img/fireplant.png", jsonPath: "res/img/fireplant.json"},
         {key: "bombgrowth", imagePath: "res/img/bombplant.png", jsonPath: "res/img/bombplant.json"},
         {key: "jumpgrowth", imagePath: "res/img/growing.png", jsonPath: "res/img/growing.json"},
